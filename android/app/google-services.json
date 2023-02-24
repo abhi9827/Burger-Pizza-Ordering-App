@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138678183832",
+    "project_id": "burgerpizza-d018a",
+    "storage_bucket": "burgerpizza-d018a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138678183832:android:d3d7fc17a10b18b6eaaded",
+        "android_client_info": {
+          "package_name": "com.example.burgerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138678183832-4mhib61tarlcfprf86qcgk1siiqji1pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6eyUf2VrEDriJYxvVnti0Iee_L4Dj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138678183832-4mhib61tarlcfprf86qcgk1siiqji1pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
